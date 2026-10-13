@@ -1,0 +1,3 @@
+# Core dependencies for SI Colony prototype
+# Expand with langchain, langgraph, etc. as orchestration matures
+python-dotenv>=1.0.0
